@@ -1,0 +1,10 @@
+# Git uses this file to determine which files and directories to ignore
+# https://help.github.com/articles/ignoring-files
+
+# Mac OS
+.DS_Store
+**/.DS_Store
+
+# Package manager files
+node_modules
+npm-debug.log

@@ -1,0 +1,19 @@
+{
+  "name": "deputy",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Manages a deputy copy of a JSON API's data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deputy"
+  ],
+  "author": "James K Nelson <james@numbattech.com>",
+  "license": "private",
+  "dependencies": {
+    "immutable": "^3.6.2",
+    "kefir": "^1.0.0"
+  }
+}
